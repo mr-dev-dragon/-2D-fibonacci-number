@@ -16,7 +16,7 @@ btn.addEventListener("click", (e) => {
 
   var add = document.getElementById("addp");
   add.innerHTML = `
-            <p class="p">grid trave memoization number is</p><br>
+            <p class="p">grid travel  memoization number is</p><br>
             ${gridTraveler(x, y)}
     `;
 });
